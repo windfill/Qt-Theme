@@ -4,9 +4,9 @@
   <style name="Link" underlineStyle="SingleUnderline"/>
   <style name="Selection" background="#3e4451"/>
   <style name="LineNumber" foreground="#818181"/>
-  <style name="SearchResult" background="#324365"/>
-  <style name="SearchResultAlt1" foreground="#000033" background="#b6ccff"/>
-  <style name="SearchResultAlt2" foreground="#330000" background="#ffb6cc"/>
+  <style name="SearchResult" background="#aa0000"/>
+  <style name="SearchResultAlt1" foreground="#000033" background="#ff557f"/>
+  <style name="SearchResultAlt2" foreground="#330000" background="#8eaa9b"/>
   <style name="SearchResultContainingFunction"/>
   <style name="SearchScope" background="#3e4451"/>
   <style name="Parentheses" underlineColor="#61afef" underlineStyle="SingleUnderline"/>
@@ -39,7 +39,7 @@
   <style name="Comment" foreground="#5e9955" italic="true"/>
   <style name="Doxygen.Comment" foreground="#5c6370" italic="true"/>
   <style name="Doxygen.Tag" foreground="#61afef"/>
-  <style name="VisualWhitespace" foreground="#fdff8c"/>
+  <style name="VisualWhitespace" foreground="#a19b94"/>
   <style name="QmlLocalId" foreground="#61afef"/>
   <style name="QmlExternalId"/>
   <style name="QmlTypeId" foreground="#e5c07b"/>
@@ -88,3 +88,4 @@
   <style name="CocoManuallyValidatedInfo" foreground="#0000ff"/>
   <style name="LastStyleSentinel"/>
 </style-scheme>
+
