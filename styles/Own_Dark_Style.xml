@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <style-scheme version="1.0" name="Own_Dark_Style">
-  <style name="Text" foreground="#abb2bf" background="#21252b"/>
+  <style name="Text" foreground="#abb2bf" background="#2b2b2b"/>
   <style name="Link" underlineStyle="SingleUnderline"/>
   <style name="Selection" background="#3e4451"/>
   <style name="LineNumber" foreground="#818181"/>
@@ -12,8 +12,8 @@
   <style name="Parentheses" underlineColor="#61afef" underlineStyle="SingleUnderline"/>
   <style name="ParenthesesMismatch" foreground="#000000" background="#c678dd"/>
   <style name="AutoComplete" background="#3e4451"/>
-  <style name="CurrentLine"/>
-  <style name="CurrentLineNumber" foreground="#ffffff"/>
+  <style name="CurrentLine" background="#6e7681"/>
+  <style name="CurrentLineNumber" foreground="#cccccc"/>
   <style name="Occurrences" background="#324365"/>
   <style name="Occurrences.Unused" underlineColor="#d19a66" underlineStyle="DashUnderline"/>
   <style name="Occurrences.Rename" background="#e06c75"/>
@@ -21,13 +21,13 @@
   <style name="String" foreground="#98c379"/>
   <style name="Type" foreground="#e5c07b"/>
   <style name="Namespace" foreground="#61afef"/>
-  <style name="Local" foreground="#e06c75"/>
-  <style name="Parameter" foreground="#e06c75"/>
+  <style name="Local" foreground="#9cdcfe"/>
+  <style name="Parameter" foreground="#d4d4d4"/>
   <style name="Global"/>
-  <style name="Field" foreground="#e06c75"/>
-  <style name="Static" foreground="#ff55ff" italic="true"/>
+  <style name="Field" foreground="#9cdcf0"/>
+  <style name="Static" foreground="#bd63c5" italic="true"/>
   <style name="VirtualMethod" foreground="#61afef" italic="true"/>
-  <style name="Function" foreground="#61afef"/>
+  <style name="Function" foreground="#dcdcaa"/>
   <style name="Keyword" foreground="#c678dd"/>
   <style name="PrimitiveType" foreground="#c678dd"/>
   <style name="Operator" foreground="#c678dd"/>
@@ -88,4 +88,3 @@
   <style name="CocoManuallyValidatedInfo" foreground="#0000ff"/>
   <style name="LastStyleSentinel"/>
 </style-scheme>
-
