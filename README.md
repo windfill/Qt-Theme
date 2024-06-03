@@ -1,4 +1,4 @@
-# Style-and-Theme-For-Qt-Creator
+# Qt-Theme
 
 ## 激活
 ### Windows
