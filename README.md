@@ -1,6 +1,6 @@
 # Qt-Theme
 
-## 激活
+## 使用
 ### Windows
 1. 复制 `one_dark.xml` 到 `%APPDATA%\QtProject\qtcreator\styles`  没有创建文件夹 
 2. 在Creator中: `Tools->Options->Text Editor->Font & Colors` 选中 `Atom One Dark` 风格
