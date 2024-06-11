@@ -2,7 +2,7 @@
 <style-scheme version="1.0" name="Own_Dark_Style">
   <style name="Text" foreground="#abb2bf" background="#2b2b2b"/>
   <style name="Link" underlineStyle="SingleUnderline"/>
-  <style name="Selection" background="#3e4451"/>
+  <style name="Selection" foreground="#00ff7f"/>
   <style name="LineNumber" foreground="#818181"/>
   <style name="SearchResult" background="#aa0000"/>
   <style name="SearchResultAlt1" foreground="#000033" background="#ff557f"/>
@@ -88,3 +88,4 @@
   <style name="CocoManuallyValidatedInfo" foreground="#0000ff"/>
   <style name="LastStyleSentinel"/>
 </style-scheme>
+
