@@ -37,7 +37,7 @@
   <style name="Macro" foreground="#61afef"/>
   <style name="Label" foreground="#e06c75" bold="true"/>
   <style name="Comment" foreground="#5e9955" italic="true"/>
-  <style name="Doxygen.Comment" foreground="#5c6370" italic="true"/>
+  <style name="Doxygen.Comment" foreground="#199903" italic="true"/>
   <style name="Doxygen.Tag" foreground="#61afef"/>
   <style name="VisualWhitespace" foreground="#a19b94"/>
   <style name="QmlLocalId" foreground="#61afef"/>
