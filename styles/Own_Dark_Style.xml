@@ -14,7 +14,7 @@
   <style name="AutoComplete" background="#3e4451"/>
   <style name="CurrentLine" background="#6e7681"/>
   <style name="CurrentLineNumber" foreground="#cccccc"/>
-  <style name="Occurrences" background="#324365"/>
+  <style name="Occurrences" background="#00ff7f"/>
   <style name="Occurrences.Unused" underlineColor="#d19a66" underlineStyle="DashUnderline"/>
   <style name="Occurrences.Rename" background="#e06c75"/>
   <style name="Number" foreground="#d19a66"/>
@@ -88,4 +88,3 @@
   <style name="CocoManuallyValidatedInfo" foreground="#0000ff"/>
   <style name="LastStyleSentinel"/>
 </style-scheme>
-
