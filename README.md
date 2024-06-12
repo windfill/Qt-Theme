@@ -10,3 +10,10 @@
 1. 复制 `one_dark.xml` 到 `~/.config/QtProject/qtcreator/styles`  没有创建
 2. 在Creator中: `Tools->Options->Text Editor->Font & Colors` 选中 `Atom One Dark` 风格
 
+### 效果
+![result](/picture/result.png "result")
+
+### 致谢
+[https://gitlab.com/iohanaan/qtcreator-onedark/-/tree/master](https://gitlab.com/iohanaan/qtcreator-onedark/-/tree/master)
+
+
