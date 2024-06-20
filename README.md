@@ -19,6 +19,6 @@ PS：代码风格是Own_Dark_Style.xml  主题是Flat Dark
 1. 只添加 `CTRL+D`复制到下一行
 
 ### 致谢
-主题参考：[https://gitlab.com/iohanaan/qtcreator-onedark/-/tree/master](https://gitlab.com/iohanaan/qtcreator-onedark/-/tree/master)
+参考：[https://gitlab.com/iohanaan/qtcreator-onedark/-/tree/master](https://gitlab.com/iohanaan/qtcreator-onedark/-/tree/master)
 
 
